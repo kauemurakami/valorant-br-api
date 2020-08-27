@@ -6,13 +6,13 @@
         "preco":"0",
         "distância": ["0-30m", "30-50m"],
         "dano": [{
-            "cabeca":"26",
-            "corpo":"78",
+            "cabeca":"78",
+            "corpo":"26",
             "pernas":"22"
         },
         {
-            "cabeca":"22",
-            "corpo":"66",
+            "cabeca":"66",
+            "corpo":"22",
             "pernas":"18"
         }
         ],
@@ -27,13 +27,13 @@
         "preco":"200",
         "distância": ["0-9m", "9-15m"],
         "dano": [{
-            "cabeca":"12",
-            "corpo":"36",
+            "cabeca":"36",
+            "corpo":"12",
             "pernas":"10"
         },
         {
-            "cabeca":"8",
-            "corpo":"24",
+            "cabeca":"24",
+            "corpo":"8",
             "pernas":"6"
         }
         ],
@@ -48,13 +48,13 @@
         "preco":"400",
         "distância": ["0-20m", "20-50m"],
         "dano": [{
-            "cabeca":"26",
-            "corpo":"78",
+            "cabeca":"78",
+            "corpo":"26",
             "pernas":"22"
         },
         {
-            "cabeca":"21",
-            "corpo":"63",
+            "cabeca":"63",
+            "corpo":"21",
             "pernas":"17"
         }
         ],
@@ -69,13 +69,13 @@
         "preco":"500",
         "distância": ["0-30m", "30-50m"],
         "dano": [{
-            "cabeca":"30",
-            "corpo":"105",
+            "cabeca":"105",
+            "corpo":"30",
             "pernas":"26"
         },
         {
-            "cabeca":"25",
-            "corpo":"88",
+            "cabeca":"88",
+            "corpo":"25",
             "pernas":"21"
         }
         ],
@@ -90,13 +90,13 @@
         "preco":"800",
         "distância": ["0-30m", "30-50m"],
         "dano": [{
-            "cabeca":"55",
-            "corpo":"160",
+            "cabeca":"160",
+            "corpo":"55",
             "pernas":"47"
         },
         {
-            "cabeca":"50",
-            "corpo":"145",
+            "cabeca":"145",
+            "corpo":"50",
             "pernas":"43"
         }
         ],
@@ -111,13 +111,13 @@
         "preco":"400",
         "distância": ["0-20m", "20-50m"],
         "dano": [{
-            "cabeca":"26",
-            "corpo":"78",
+            "cabeca":"78",
+            "corpo":"26",
             "pernas":"22"
         },
         {
-            "cabeca":"21",
-            "corpo":"63",
+            "cabeca":"63",
+            "corpo":"21",
             "pernas":"17"
         }
         ],
@@ -132,13 +132,13 @@
         "preco":"1600",
         "distância": ["0-20m", "20-50m"],
         "dano": [{
-            "cabeca":"26",
-            "corpo":"78",
+            "cabeca":"78",
+            "corpo":"26",
             "pernas":"22"
         },
         {
-            "cabeca":"22",
-            "corpo":"66",
+            "cabeca":"66",
+            "corpo":"22",
             "pernas":"18"
         }
         ],
@@ -153,18 +153,18 @@
         "preco":"900",
         "distância": ["0-8m", "8-12m", "12-50m"],
         "dano": [{
-            "cabeca":"22",
-            "corpo":"44",
+            "cabeca":"44",
+            "corpo":"22",
             "pernas":"19"
         },
         {
-            "cabeca":"17",
-            "corpo":"34",
+            "cabeca":"34",
+            "corpo":"17",
             "pernas":"14"
         },
         {
-            "cabeca":"9",
-            "corpo":"18",
+            "cabeca":"18",
+            "corpo":"9",
             "pernas":"8"
         }
         ],
@@ -179,18 +179,18 @@
         "preco":"1500",
         "distância": ["0-10m", "10-15m", "15-50m"],
         "dano": [{
-            "cabeca":"17",
-            "corpo":"34",
+            "cabeca":"34",
+            "corpo":"17",
             "pernas":"14"
         },
         {
-            "cabeca":"13",
-            "corpo":"26",
+            "cabeca":"26",
+            "corpo":"13",
             "pernas":"11"
         },
         {
-            "cabeca":"10",
-            "corpo":"20",
+            "cabeca":"20",
+            "corpo":"10",
             "pernas":"9"
         }
         ],
@@ -221,8 +221,8 @@
         "preco":"2500",
         "distância": ["0-50m"],
         "dano": [{
-            "cabeca":"65",
-            "corpo":"195",
+            "cabeca":"195",
+            "corpo":"65",
             "pernas":"49"
         }
         ],
