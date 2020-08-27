@@ -1,102 +1,343 @@
 [
     {
         "nome":"Classic",
+        "penetração_parede":"baixa",
+        "pente":"12 balas",
+        "preco":"0",
+        "distância": ["0-30m", "30-50m"],
+        "dano": [{
+            "cabeca":"26",
+            "corpo":"78",
+            "pernas":"22"
+        },
+        {
+            "cabeca":"22",
+            "corpo":"66",
+            "pernas":"18"
+        }
+        ],
         "tipo":"Armas Leves",
         "bio":"Leve e versátil, a arma padrão é um clássico inegável.",
         "descricao":"Seu modo primário faz disparos precisos quando o jogador está parado. Além disso, ela vem equipada com um modo alternativo de rajadas para combates e curta distância."
     },
     {
         "nome":"Shorty",
+        "penetração_parede":"baixa",
+        "pente":"2 balas",
+        "preco":"200",
+        "distância": ["0-9m", "9-15m"],
+        "dano": [{
+            "cabeca":"12",
+            "corpo":"36",
+            "pernas":"10"
+        },
+        {
+            "cabeca":"8",
+            "corpo":"24",
+            "pernas":"6"
+        }
+        ],
         "tipo":"Armas Leves",
         "bio":"Surpreenda seus inimigos bem de perto para obter o máximo de eficiência.",
         "descricao":"Uma escopeta rápida de cano curto e altamente letal a curta distância, mas que dispara apenas dois tiros antes de precisar recarregar. Combina bem com armas de longa distância."
     },
     {
         "nome":"Frenzy",
+        "penetração_parede":"baixa",
+        "pente":"13 balas",
+        "preco":"400",
+        "distância": ["0-20m", "20-50m"],
+        "dano": [{
+            "cabeca":"26",
+            "corpo":"78",
+            "pernas":"22"
+        },
+        {
+            "cabeca":"21",
+            "corpo":"63",
+            "pernas":"17"
+        }
+        ],
         "tipo":"Armas Leves",
         "bio":"A curta distância, dedo no gatilho! A longa distância... é melhor procurar outra arma.",
         "descricao":"Frenzy é uma metralhadora de mão leve e excelente para usar em movimento. Sua alta cadência de tiro pode ser difícil de controlar, então tente disparar rajadas curtas a distâncias intermediárias."
     },
     {
         "nome":"Ghost",
+        "penetração_parede":"média",
+        "pente":"15 balas",
+        "preco":"500",
+        "distância": ["0-30m", "30-50m"],
+        "dano": [{
+            "cabeca":"30",
+            "corpo":"105",
+            "pernas":"26"
+        },
+        {
+            "cabeca":"25",
+            "corpo":"88",
+            "pernas":"21"
+        }
+        ],
         "tipo":"Armas Leves",
         "bio":"Elegante, silenciosa e eficiente ao disparar de quaqluer distância.",
         "descricao":"Ghost é uma arma precisa que conta com um grande carregador, o que ajuda a compensar qualquer erro seu. Para acertar alvos distantes, é preciso manter a cadência de tiro controlada. E para acertar alvos de perto, pode sentar o dedo no gatilho."
     },
     {
         "nome":"Sheriff",
+        "penetração_parede":"alta",
+        "pente":"6 balas",
+        "preco":"800",
+        "distância": ["0-30m", "30-50m"],
+        "dano": [{
+            "cabeca":"55",
+            "corpo":"160",
+            "pernas":"47"
+        },
+        {
+            "cabeca":"50",
+            "corpo":"145",
+            "pernas":"43"
+        }
+        ],
         "tipo":"Armas Leves",
         "bio":"Sheriff é um revolver moderno feito para quem busca tiros certeiros na cabeça do inimigo.",
         "descricao":"Seus projéteis de alto impacto provocam bastante recuo, então é preciso ter pulso firme. Quando você domina esta arma, seus inimigos logo percebem que nunca tiveram chance."
     },
     {
         "nome":"Stinger",
+        "penetração_parede":"baixa",
+        "pente":"13 balas",
+        "preco":"400",
+        "distância": ["0-20m", "20-50m"],
+        "dano": [{
+            "cabeca":"26",
+            "corpo":"78",
+            "pernas":"22"
+        },
+        {
+            "cabeca":"21",
+            "corpo":"63",
+            "pernas":"17"
+        }
+        ],
         "tipo":"Submetralhadoras",
         "bio":"Os inimigos sabem que o fim chegou quando sentem o disparo da Stringer.",
         "descricao":"Esta submetralhadora tem mais potência a médias e longas distâncias, à custa da cadência de tiro e mobilidade. Seu carregador de 20 projéteis é contrabalançado por sprays que provocam bastante recuo. Em compensação, esta arma dispara tiros letais a distâncias intermediárias com a ajuda da mira e de fogo controlado."
     },
     {
         "nome":"Spectre",
+        "penetração_parede":"média",
+        "pente":"30 balas",
+        "preco":"1600",
+        "distância": ["0-20m", "20-50m"],
+        "dano": [{
+            "cabeca":"26",
+            "corpo":"78",
+            "pernas":"22"
+        },
+        {
+            "cabeca":"22",
+            "corpo":"66",
+            "pernas":"18"
+        }
+        ],
         "tipo":"Submetralhadoras",
         "bio":"Bateu a dúvida? Vá de Spectre que tudo dará certo.",
         "descricao":"Spectre é uma arma faz-tudo com ótimo equilíbrio entre dano, cadência de tiro e precisão – tudo isso a distâncias curtas e intermediárias. Ela assombra as esquinas de todo mapa e requer apenas uma mira estável para acabar com os inimigos a longa distância."
     },
     {
         "nome":"Bucky",
+        "penetração_parede":"baixa",
+        "pente":"5 balas",
+        "preco":"900",
+        "distância": ["0-8m", "8-12m", "12-50m"],
+        "dano": [{
+            "cabeca":"22",
+            "corpo":"44",
+            "pernas":"19"
+        },
+        {
+            "cabeca":"17",
+            "corpo":"34",
+            "pernas":"14"
+        },
+        {
+            "cabeca":"9",
+            "corpo":"18",
+            "pernas":"8"
+        }
+        ],
         "tipo":"Escopetas",
         "bio":"Atacante? Defensor? Tanto faz. O importante é ter uma escopeta dessa em mãos.",
         "descricao":"Pesada, porém estável, Bucky tem um modo primário que serve para segurar avanços em esquinas acirradas ou ajudar na investida em áreas pequenas."
     },
     {
         "nome":"Judge",
+        "penetração_parede":"média",
+        "pente":"7 balas",
+        "preco":"1500",
+        "distância": ["0-10m", "10-15m", "15-50m"],
+        "dano": [{
+            "cabeca":"17",
+            "corpo":"34",
+            "pernas":"14"
+        },
+        {
+            "cabeca":"13",
+            "corpo":"26",
+            "pernas":"11"
+        },
+        {
+            "cabeca":"10",
+            "corpo":"20",
+            "pernas":"9"
+        }
+        ],
         "tipo":"Escopetas",
         "bio":"Judge é uma escopeta automática de tiro rápido que causa muito dano constante.",
         "descricao":"Ela é estável com seus tiros normais, mas se torna volátil em disparos rápidos. Seu modo primário acaba com os alvos a curta distância, mas você precisará de uma mira estável para acertar qualquer coisa que esteja além do alcance do seu braço."
     },
     {
         "nome":"Bulldog",
+        "penetração_parede":"média",
+        "pente":"24 balas",
+        "preco":"2100",
+        "distância": ["0-50m"],
+        "dano": [{
+            "cabeca":"116",
+            "corpo":"35",
+            "pernas":"30"
+        }
+        ],
         "tipo":"Fuzis",
         "bio":"Bulldog é o tipo de arma que traz satisfação ao conseguir um abate.",
         "descricao":"Este fuzil pode se tornar uma verdadeira máquina mortífera. Seu modo secundário permite que o atirador use a mira e descarregue rajadas curtas e precisas em qualquer um que se aproximar a distâncias intermediárias a longas."
     },
     {
         "nome":"Guardian",
+        "penetração_parede":"alta",
+        "pente":"12 balas",
+        "preco":"2500",
+        "distância": ["0-50m"],
+        "dano": [{
+            "cabeca":"65",
+            "corpo":"195",
+            "pernas":"49"
+        }
+        ],
         "tipo":"Fuzis",
         "bio":"Esta arma da um show nas mãos de atiradores pacientes.",
         "descricao":"Por ser um fuzil estilo DMR, Guardian é mais pesado e oferece menos mobilidade do que outros fuzis, mas seus disparos são precisos e poderosos. Saia caçando inimigos a distâncias longas e intermediárias."
     },
     {
         "nome":"Phantom",
+        "penetração_parede":"média",
+        "pente":"30 balas",
+        "preco":"2900",
+        "distância": ["0-15m","15-30m","30-50m"],
+        "dano": [{
+            "cabeca":"156",
+            "corpo":"39",
+            "pernas":"33"
+        },
+        {
+            "cabeca":"140",
+            "corpo":"35",
+            "pernas":"30"
+        },
+        {
+            "cabeca":"124",
+            "corpo":"31",
+            "pernas":"26"
+        }
+        ],
         "tipo":"Fuzis",
         "bio":"Phantom é uma arma equilibrada, projetada para disparar tiros estáveis que alcançam longas distâncias.",
         "descricao":"Aproveite a automação desta arma para atingir qualquer um que tente se aproximar. Lance rajadas curtas e controladas para dispersar inimigos em qualquer lugar. Phantom tem um desempenho melhor quando o atirador está parado."
     },
     {
         "nome":"Vandal",
+        "penetração_parede":"alta",
+        "pente":"25 balas",
+        "preco":"2900",
+        "distância": ["0-50m"],
+        "dano": [{
+            "cabeca":"156",
+            "corpo":"39",
+            "pernas":"33"
+        }
+        ],
         "tipo":"Fuzis",
         "bio":"Este fuzil, extremamente potente, causa um enorme estrago com pequenas rajadas de balas.",
         "descricao":"Em compensação, se disparar por muito tempo, sua estabilidade é prejudicada. Vandal concede bastante dano a longa distância e recompensa aqueles que focam em um único tiro certeiro na cabeça do alvo."
     },
     {
         "nome":"Operator",
+        "penetração_parede":"alta",
+        "pente":"5 balas",
+        "preco":"4500",
+        "distância": ["0-15m","15-30m","30-50m"],
+        "dano": [{
+            "cabeca":"255",
+            "corpo":"150",
+            "pernas":"127"
+        }],
         "tipo":"Fuzis de precisão",
         "bio":"Aconchegue-se em um lugar e será capaz de controlar áreas importantes.",
         "descricao":"Operator é um fuzil de precisão intenso com zoom duplo altamente eficiente. Esta arma tem um desempenho péssimo em movimento, mas dispara projéteis absurdamente poderosos que podem devastar uma equipe inteira com um só tiro."
     },
     {
         "nome":"Marshal",
+        "penetração_parede":"média",
+        "pente":"5 balas",
+        "preco":"1100",
+        "distância": ["0-50m"],
+        "dano": [{
+            "cabeca":"202",
+            "corpo":"101",
+            "pernas":"85"
+        }],
         "tipo":"Fuzis de precisão",
         "bio":"Escolha um ângulo bom, mire, e o alvo irá se arrepender por ter virado aquela esquina.",
         "descricao":"Marshal é um fuzil de precisão ágil e de zoom único que consegue manter longe aqueles inimigos insistentes. Devido à cadência mais lenta, você precisará acertar seus disparos ou ficará vulnerável a ataques."
     },
     {
         "nome":"Ares",
+        "penetração_parede":"alta",
+        "pente":"50 balas",
+        "preco":"1600",
+        "distância": ["0-30m","30-50m"],
+        "dano": [{
+            "cabeca":"72",
+            "corpo":"30",
+            "pernas":"25"
+        },
+        {
+            "cabeca":"67",
+            "corpo":"28",
+            "pernas":"23"
+        }],
         "tipo":"Metralhadoras",
         "bio":"Não subestime o poder dessa arma.",
         "descricao":"Ares conta com um carregador enorme e se destaca em fogo de supressão ou causando muito dano a grupos concentrados de inimigos."
     },
     {
         "nome":"Odin",
+        "penetração_parede":"alta",
+        "pente":"100 balas",
+        "preco":"3200",
+        "distância": ["0-30m","30-50m"],
+        "dano": [{
+            "cabeca":"95",
+            "corpo":"38",
+            "pernas":"32"
+        },
+        {
+            "cabeca":"77",
+            "corpo":"31",
+            "pernas":"26"
+        }],
         "tipo":"Metralhadoras",
         "bio":"Ao empunhar uma arma grandiosa como esta, uma coisa é certa: quem a possui, ascenderá à glória enquanto o oponente cai em ruína.",
         "descricao":"Odin conta com disparos que causam bastante dano e anulam ataques com uma estabilidade surpreendente. Use sprays contra inimigos a curta distância e troque para o modo secundário para se tornar uma torreta ambulante."
