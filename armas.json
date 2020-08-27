@@ -64,7 +64,7 @@
     },
     {
         "nome":"Ghost",
-        "penetração_parede":"média",
+        "penetração_parede":"media",
         "pente":"15 balas",
         "preco":"500",
         "distância": ["0-30m", "30-50m"],
@@ -123,11 +123,11 @@
         ],
         "tipo":"Submetralhadoras",
         "bio":"Os inimigos sabem que o fim chegou quando sentem o disparo da Stringer.",
-        "descricao":"Esta submetralhadora tem mais potência a médias e longas distâncias, à custa da cadência de tiro e mobilidade. Seu carregador de 20 projéteis é contrabalançado por sprays que provocam bastante recuo. Em compensação, esta arma dispara tiros letais a distâncias intermediárias com a ajuda da mira e de fogo controlado."
+        "descricao":"Esta submetralhadora tem mais potência a medias e longas distâncias, à custa da cadência de tiro e mobilidade. Seu carregador de 20 projéteis é contrabalançado por sprays que provocam bastante recuo. Em compensação, esta arma dispara tiros letais a distâncias intermediárias com a ajuda da mira e de fogo controlado."
     },
     {
         "nome":"Spectre",
-        "penetração_parede":"média",
+        "penetração_parede":"media",
         "pente":"30 balas",
         "preco":"1600",
         "distância": ["0-20m", "20-50m"],
@@ -174,7 +174,7 @@
     },
     {
         "nome":"Judge",
-        "penetração_parede":"média",
+        "penetração_parede":"media",
         "pente":"7 balas",
         "preco":"1500",
         "distância": ["0-10m", "10-15m", "15-50m"],
@@ -200,7 +200,7 @@
     },
     {
         "nome":"Bulldog",
-        "penetração_parede":"média",
+        "penetração_parede":"media",
         "pente":"24 balas",
         "preco":"2100",
         "distância": ["0-50m"],
@@ -232,7 +232,7 @@
     },
     {
         "nome":"Phantom",
-        "penetração_parede":"média",
+        "penetração_parede":"media",
         "pente":"30 balas",
         "preco":"2900",
         "distância": ["0-15m","15-30m","30-50m"],
@@ -277,7 +277,7 @@
         "penetração_parede":"alta",
         "pente":"5 balas",
         "preco":"4500",
-        "distância": ["0-15m","15-30m","30-50m"],
+        "distância": ["30-50m"],
         "dano": [{
             "cabeca":"255",
             "corpo":"150",
@@ -289,7 +289,7 @@
     },
     {
         "nome":"Marshal",
-        "penetração_parede":"média",
+        "penetração_parede":"media",
         "pente":"5 balas",
         "preco":"1100",
         "distância": ["0-50m"],
