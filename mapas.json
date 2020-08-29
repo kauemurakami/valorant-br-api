@@ -1,0 +1,27 @@
+[
+    {
+        "nome":"Split",
+        "qt_bombs":2,
+        "vantagem":"Defesa",
+        "dream_team":[{"ataque":["Brimstone","Omen","Reyna","Sage","Jett"]},{"defesa":["Sova","Viper","Killjoy","Sage","Phoenix"]}]
+    },
+    {
+        "nome":"Bind",
+        "qt_bombs":2,
+        "vantagem":"Defesa",
+        "dream_team":[{"ataque":["Brimstone","Omen","Reyna","Sage","Jett"]},{"defesa":["Raze","Viper","Cypher","Sage","Omen"]}]
+    }
+    ,
+    {
+        "nome":"Haven",
+        "qt_bombs":3,
+        "vantagem":"Ataque",
+        "dream_team":[{"ataque":["Viper","Raze","Phoenix","Sage","Killjoy"]},{"defesa":["Killjoy","Reyna","Cypher","Sage","Sova"]}]
+    },
+    {
+        "nome":"Ascente",
+        "qt_bombs":2,
+        "vantagem":"Defesa",
+        "dream_team":[{"ataque":["Brimstone","Raze","Omen","Sage","Jett"]},{"defesa":["Killjoy","Cypher","Raze","Sage","Sova"]}]
+    }
+]
