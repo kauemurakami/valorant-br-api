@@ -5,7 +5,7 @@
         "descricao":"Se quiser avançar, é preciso subir. Separados por uma área central elevada, dois pontos fornecem movimentação rápida com duas cordas ascendentes. Cada ponto tem uma torre imponente que é vital para o controle da área. E não se esqueça: mantenha os olhos abertos e focados nas áreas elevadas antes que tudo vá pelos ares.",
         "qt_bombs":2,
         "vantagem":"Defesa",
-        "dream_team":[{"ataque":["Brimstone","Omen","Reyna","Sage","Jett"]},{"defesa":["Sova","Viper","Killjoy","Sage","Phoenix"]}]
+        "melhores_agentes":["Brimstone","Raze","Sage","Sova","Viper"]
     },
     {
         "nome":"Bind",
@@ -13,7 +13,7 @@
         "descricao":"Dois pontos. Nenhuma área no meio. Você precisa escolher: direita ou esquerda? E aí, qual vai ser? Ambos os lados oferecem caminhos diretos para os atacantes, e dois teleportadores de sentido único facilitam o flanqueamento.",
         "qt_bombs":2,
         "vantagem":"Defesa",
-        "dream_team":[{"ataque":["Brimstone","Omen","Reyna","Sage","Jett"]},{"defesa":["Raze","Viper","Cypher","Sage","Omen"]}]
+        "melhores_agentes":["Brimstone","Omen","Reyna","Sage","Cypher"]
     }
     ,
     {
@@ -22,7 +22,7 @@
         "descricao":"Sob um mosteiro abandonado, é possível ouvir agentes se enfrentando pelo controle de três pontos distintos. Neste mapa, há mais áreas para controlar. Em compensação, os defensores também conseguem aproveitar o território extra para coordenar investidas mais agressivas.",
         "qt_bombs":3,
         "vantagem":"Ataque",
-        "dream_team":[{"ataque":["Viper","Raze","Phoenix","Sage","Killjoy"]},{"defesa":["Killjoy","Reyna","Cypher","Sage","Sova"]}]
+        "melhores_agentes":["Raze","Jett","Killjoy","Cypher","Sage"]
     },
     {
         "nome":"Ascent",
@@ -30,6 +30,6 @@
         "descricao":"Com várias opções de posicionamento e conflito, um território aberto divide duas áreas em Ascent. Cada uma pode ser fortificada por portas explosivas irreversíveis que, quando derrubadas, forçam as equipes a destruí-las ou a acharem outra maneira de prosseguir. Não deixe que o inimigo tome o seu território.",
         "qt_bombs":2,
         "vantagem":"Defesa",
-        "dream_team":[{"ataque":["Brimstone","Raze","Omen","Sage","Jett"]},{"defesa":["Killjoy","Cypher","Raze","Sage","Sova"]}]
+        "melhores_agentes":["Brimstone","Raze","Omen","Killjoy","Raze","Sage"]
     }
 ]
