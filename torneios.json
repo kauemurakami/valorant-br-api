@@ -1,0 +1,12 @@
+[
+    {
+        "titulo":"Anuncie seu torneio aqui!",
+        "dataInicio":"dd/mm/aaaa",
+        "dataFim":"dd/mm/aaaa",
+        "valorIncricao":"00,00",
+        "realizador":"Realizador",
+        "quantidadeEquipes":"99",
+        "contatoRealizador":"email@gmail.com",
+        "acompanharEvento":"página no facebook/discord/tweeter/publicação "
+    }
+]
