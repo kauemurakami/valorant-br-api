@@ -7,6 +7,8 @@
         "realizador":"Realizador",
         "quantidadeEquipes":"99",
         "contatoRealizador":"email@gmail.com",
-        "acompanharEvento":"página no facebook/discord/tweeter/publicação "
+        "acompanharEvento":"página no facebook/discord/tweeter/publicação",
+        "imagemTorneio":"https://raw.githubusercontent.com/kauemurakami/valorant-api/master/images/torneios/torneioexemplo.jpg"
+
     }
 ]
