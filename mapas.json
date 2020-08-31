@@ -1,24 +1,38 @@
 [
     {
         "nome":"Split",
-        "dicas": [""],
+        "dicas": ["A formação padrão da defesa deve ser 2-2-1 (A, Meio e B), com um dos Defensores do meio rotacionando para a Torre B.",
+        "Smokes são muito valiosas (mais do que o normal) do lado Atacante, já que existem muitas retas longas e favoráveis a snipers.",
+    "Por possuir muita verticalidade, Jett tem acesso a diversas jogadas exclusivas no mapa. Além disso, seu útil é especialmente eficiente na Split, já que ela pode fazer uso do seu voo em inúmeras situações."],
         "descricao":"Se quiser avançar, é preciso subir. Separados por uma área central elevada, dois pontos fornecem movimentação rápida com duas cordas ascendentes. Cada ponto tem uma torre imponente que é vital para o controle da área. E não se esqueça: mantenha os olhos abertos e focados nas áreas elevadas antes que tudo vá pelos ares.",
         "qt_bombs":2,
         "vantagem":"Defesa",
-        "melhores_agentes":["Brimstone","Raze","Sage","Sova","Viper"]
+        "melhores_agentes":["Brimstone","Raze","Sage","Jett","Viper"]
     },
     {
         "nome":"Bind",
-        "dicas": [""],
+        "dicas": ["Personagens como Sova ou Cypher, que possuem habilidades de observação são muito úteis para defender no mapa Bind. Considere selecioná-los durante a escolha dos agentes.",
+        "Lembre-se de que os portais permitem que os jogadores se movam rapidamente de um Bomb para outro, mas não permitem que os jogadores retornem ao local anterior. Tome cuidado para não deixar um Bomb completamente desprotegido.",
+        "Os portais emitem um som muito alto quando são utilizados, o que alerta a equipe adversária de que alguém acabou de se teletransportar.",
+    "Você pode transportar vários itens pelos portais, como armas, mas também usar as habilidades do seu personagem, como granadas, foguetes, balas, orbes e drones.",
+"Existem duas esferas no mapa Bind que podem ser usadas para obter pontos de sua habilidade Ultimate, propensas aos defensores. Se você tiver a oportunidade, colete-as para acessar a habilidade Ultimate do seu personagem mais rapidamente. Tome muito cuidado ao coletar as esferas, pois seu personagem fica muito exposto ao coletá-las.", 
+"Tão amplo quanto o A, o Bombsite B é um pouco mais fácil de ser defendido devido as entradas estreitas pela Janela (também chamado de Hookah) e do Jardim. Além disso, qualquer Atacante que entre pela Janela estará vulnerável no momento da queda, o que confere uma grande vantagem à defesa. Geralmente os Defensores se encontram dentro do site, na Esquina B ou recuados no Salão B.",
+"Outro ponto de extrema importância, o Curto A também é chamado de Meio por alguns jogadores. A região é a entrada mais viável ao Bombsite A e dá acesso direto ao Teletransportador. Qualquer Atacante entrando por esse ponto deve estar atento a Defensores na Torre A e nas Luminárias, principalmente.",
+"O Banheiro é a entrada mais difícil para o Bombsite A, já que a saída é muito estreita e facilmente defendida por snipers. O local é fechado e possui um Orbe de Ultimate mais acessível aos Atacantes. Ter o controle dessa área possibilita que o ataque faça fakes no B e utilize o Teletransportador para voltar para o A."],
         "descricao":"Dois pontos. Nenhuma área no meio. Você precisa escolher: direita ou esquerda? E aí, qual vai ser? Ambos os lados oferecem caminhos diretos para os atacantes, e dois teleportadores de sentido único facilitam o flanqueamento.",
         "qt_bombs":2,
         "vantagem":"Defesa",
-        "melhores_agentes":["Brimstone","Omen","Reyna","Sage","Cypher"]
+        "melhores_agentes":["Brimstone","Sova","Reyna","Sage","Cypher"]
     }
     ,
     {
         "nome":"Haven",
-        "dicas": [""],
+        "dicas": ["O Site A é o mais fácil de defender, mas também é o mais fácil para derrubar defesas, o que significa que ambas as equipas têm de ter uma noção bastante presente de que as suas jogadas os podem deixar completamente abertos. A maneira mais simples de defender o A é da A Tower, mesmo ao lado do spawn defensivo. É uma das poucas áreas elevadas do mapa, sendo um bom ponto de vantagem para avistar quaisquer atacantes que estejam a aproximar-se. A maneira mais fácil de jogar é com dois defesas, um a tirar informação no long e o da janela a segurar short.",
+        "Atacar em A Long requer um mínimo de dois jogadores, com preferência para alguém que consiga smokar a janela e assim abrir jogo para os colegas que possam querer fazer push através do short. Se o atacares coordenado e com velocidade, deverás ser garantir a cobertura das caixas amontoadas no site, o que, caso o sniper falhe o primeiro tiro, te coloca em posição vantajosa. Em solo firme, porém, as coisas são muito mais expostas, sendo difícil de segurar o site a seguir ao plant.",
+    "Situado no meio do mapa, o B é o mais difícil de controlar e de manter sob controlo. A defender, segura o A Link, que provavelmente será a tua melhor aposta para ter um ponto de vantagem defensiva e te permite rodar entre sites, consoante a necessiade. Back B não é uma má opção, mas deixa-te numa posição aberta e comprometida do que as restantes caso os adversários consigam irromper pelo site. Em A Link, se o site A estiver fechado, tens de te preocupar com menos aberturas e podes recuar para jogar em retake caso seja necessário.",
+    "Para atacar, ou pressionas com todos pelo meio ou jogas pelo meio C, decidindo no final se irrompes pelo B com ajuda dos colegas no Courtyard. Quando entras, terás de conquistar Back B e guardar A Link e C Link, entradas por onde os defesas vão flanquear e fazer retake. Deves usar uma habilidade para bloquear uma das entradas, permitindo-te focar atenções nas restantes. Claro, como em qualquer shooter que se preze, rush B é sempre, sempre opção.",
+"O Spike Site C é a única área do mapa que oferece uma passagem longa o suficiente para um sniper brilhar. Esta é, de longe, a maneira mais fácil e eficaz de segurar o long deste terceiro site. Não tem ângulos, não tem muita cobertura, não tem portas, caixas... Apenas Cubby, que não está nada livre de risco. Os defesas já têm muita vantagem no C, portanto, enquanto atacante, deves evitar o long.",
+"Através de C Short, o site C é o mais fácil de atacar no mapa, especialmente se o rushares em grupo. Defensivamente, a única área que merece preocupação quando fizeres a abordagem é a Window. Esta zona tem como propósito lógico ser um ponto defensivo, pelo que até o jogador mais casual compreenderá como guardar o site ali. Uma habilidade como Cloudburst de Jett é uma boa aposta para isolar os adversários ao invés de os enfrentar na bala. Depois disso, há muita cobertura disponível no Site C, pelo que, se conseguires conquistar, plantar e controlar o site, é uma questão de conseguir as trades e manter a superioridade enquanto o relógio conta... Tick tack..."],
         "descricao":"Sob um mosteiro abandonado, é possível ouvir agentes se enfrentando pelo controle de três pontos distintos. Neste mapa, há mais áreas para controlar. Em compensação, os defensores também conseguem aproveitar o território extra para coordenar investidas mais agressivas.",
         "qt_bombs":3,
         "vantagem":"Ataque",
@@ -26,7 +40,12 @@
     },
     {
         "nome":"Ascent",
-        "dicas": [""],
+        "dicas": ["Neste mapa é ainda mais importante ter agentes que bloqueiam a visão de passagens com smokes, como é o caso do Brimstone. Ascent é extremamente aberto e os bombsites possuem muitos covers, o que pode ser um problema para o ataque. Para diminuir este problema a solução é cancelar a visão de algumas posições e se preocupar com as demais.",
+        "Jogue em time, mas não deixe de fazer splits. Splits são as táticas em que o time é divido para entrar por dois lados ao mesmo tempo. Esta é outra maneira da alta quantidade de covers ser menos útil, pois a defesa se preocupará com mais de uma entrada.",
+        "Por ter corredores mais abertos e um meio extremamente amplo, é essêncial ter um bom sniper no time ao jogar Ascent.",
+    "Quando se está na defesa, aproveite os muitos covers dos bombsites para adotar um estilo de jogo mais recuado. Não é necessário jogar avançado, a não ser que seja uma vez ou outra para quebrar o ritmo de jogo.",
+    "Quando se está no ataque, se puder domine o meio. É possível até mesmo dominar a região de dentro dele para fazer um ataque por ali e pegar inimigos desprevinidos ou preocupados com muitas entradas.",
+    "Faça testes. Sim, a dica é essa, aproveite que é um mapa novo e entre rapidamente em uma personalizada para fazer alguns testes. Seja de smokes, de flechas de Sova, orbes de Sage e até mesmo de pixels que combinem com seu estilo de jogo. Ter conhecimento em um mapa recém-lançado pode ser a chave da sua vitória sobre oponentes que ainda não estão muito familiarizados."],
         "descricao":"Com várias opções de posicionamento e conflito, um território aberto divide duas áreas em Ascent. Cada uma pode ser fortificada por portas explosivas irreversíveis que, quando derrubadas, forçam as equipes a destruí-las ou a acharem outra maneira de prosseguir. Não deixe que o inimigo tome o seu território.",
         "qt_bombs":2,
         "vantagem":"Defesa",
