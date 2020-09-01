@@ -10,5 +10,17 @@
         "acompanharEvento":"https://www.facebook.com/kaue.murakami/",
         "imagemTorneio":"https://raw.githubusercontent.com/kauemurakami/valorant-api/master/images/torneios/torneioexemplo.jpg",
         "premiacao":"000,00"
+    },
+    {
+        "titulo":"Torneio Exemplo",
+        "dataInicio":"12/12/2020",
+        "dataFim":"12/01/2021",
+        "valorIncricao":"10,00",
+        "realizador":"Gamelandia xd",
+        "quantidadeEquipes":"16",
+        "contatoRealizador":"gamelandiaxd@gmail.com",
+        "acompanharEvento":"https://www.facebook.com/kaue.murakami/",
+        "imagemTorneio":"https://raw.githubusercontent.com/kauemurakami/valorant-api/master/images/torneios/torneioexemplo.jpg",
+        "premiacao":"500,00"
     }
 ]
