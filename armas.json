@@ -31,7 +31,7 @@
         "pente":"2 balas",
         "cadencia":"6,75 balas/seg",
         "velocidade_equipar":"0,75 seg",
-        "dispercao_tiro_iniciail":"0,4",
+        "dispercao_tiro_iniciail":["0,4"],
         "velocidade_recarregar":"1,75 seg",
         "preco":"200",
         "distância": ["0-9m", "9-15m"],
