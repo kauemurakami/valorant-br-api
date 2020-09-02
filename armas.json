@@ -3,6 +3,11 @@
         "nome":"Classic",
         "penetração_parede":"baixa",
         "pente":"12 balas",
+        "cadencia":"6,75 balas/seg",
+        "velocidade_corrida":"5,73 m/seg",
+        "velocidade_equipar":"0,75 seg",
+        "dispercao_tiro_iniciail":["0,4"],
+        "velocidade_recarregar":"1,75 seg",
         "preco":"0",
         "distância": ["0-30m", "30-50m"],
         "dano": [{
@@ -24,6 +29,10 @@
         "nome":"Shorty",
         "penetração_parede":"baixa",
         "pente":"2 balas",
+        "cadencia":"6,75 balas/seg",
+        "velocidade_equipar":"0,75 seg",
+        "dispercao_tiro_iniciail":"0,4",
+        "velocidade_recarregar":"1,75 seg",
         "preco":"200",
         "distância": ["0-9m", "9-15m"],
         "dano": [{
@@ -45,6 +54,11 @@
         "nome":"Frenzy",
         "penetração_parede":"baixa",
         "pente":"13 balas",
+        "cadencia":"10 balas/seg",
+        "velocidade_corrida":"5,73 m/seg",
+        "velocidade_equipar":"1 seg",
+        "dispercao_tiro_iniciail":["0,45"],
+        "velocidade_recarregar":"1,5 seg",
         "preco":"400",
         "distância": ["0-20m", "20-50m"],
         "dano": [{
@@ -66,6 +80,11 @@
         "nome":"Ghost",
         "penetração_parede":"media",
         "pente":"15 balas",
+        "cadencia":"6,75 balas/seg",
+        "velocidade_corrida":"5,73 m/seg",
+        "velocidade_equipar":"0,75 seg",
+        "dispercao_tiro_iniciail":["0,3"],
+        "velocidade_recarregar":"1,5 seg",
         "preco":"500",
         "distância": ["0-30m", "30-50m"],
         "dano": [{
@@ -87,17 +106,22 @@
         "nome":"Sheriff",
         "penetração_parede":"alta",
         "pente":"6 balas",
+        "cadencia":"4 balas/seg",
+        "velocidade_corrida":"5,4 m/seg",
+        "velocidade_equipar":"1 seg",
+        "dispercao_tiro_iniciail":["0,25"],
+        "velocidade_recarregar":"2,25 seg",
         "preco":"800",
         "distância": ["0-30m", "30-50m"],
         "dano": [{
-            "cabeca":"160",
+            "cabeca":"159",
             "corpo":"55",
-            "pernas":"47"
+            "pernas":"46"
         },
         {
             "cabeca":"145",
             "corpo":"50",
-            "pernas":"43"
+            "pernas":"42"
         }
         ],
         "tipo":"Armas Leves",
@@ -108,17 +132,22 @@
         "nome":"Stinger",
         "penetração_parede":"baixa",
         "pente":"13 balas",
+        "cadencia":"18 balas/seg",
+        "velocidade_corrida":"5,73 m/seg",
+        "velocidade_equipar":"0,75 seg",
+        "dispercao_tiro_iniciail":["0,65","0,4"],
+        "velocidade_recarregar":"2,25 seg",
         "preco":"400",
         "distância": ["0-20m", "20-50m"],
         "dano": [{
-            "cabeca":"78",
-            "corpo":"26",
+            "cabeca":"67",
+            "corpo":"27",
             "pernas":"22"
         },
         {
-            "cabeca":"63",
-            "corpo":"21",
-            "pernas":"17"
+            "cabeca":"62",
+            "corpo":"25",
+            "pernas":"21"
         }
         ],
         "tipo":"Submetralhadoras",
@@ -129,6 +158,11 @@
         "nome":"Spectre",
         "penetração_parede":"media",
         "pente":"30 balas",
+        "cadencia":"13,33 balas/seg",
+        "velocidade_corrida":"5,73 m/seg",
+        "velocidade_equipar":"0,75 seg",
+        "dispercao_tiro_iniciail":["0,4","0,25"],
+        "velocidade_recarregar":"2,25 seg",
         "preco":"1600",
         "distância": ["0-20m", "20-50m"],
         "dano": [{
@@ -150,22 +184,32 @@
         "nome":"Bucky",
         "penetração_parede":"baixa",
         "pente":"5 balas",
+        "cadencia":"1,1 balas/seg",
+        "velocidade_corrida":"5,06 m/seg",
+        "velocidade_equipar":"1 seg",
+        "dispercao_tiro_iniciail":["3,4"],
+        "velocidade_recarregar":"2,5 seg",
         "preco":"900",
-        "distância": ["0-8m", "8-12m", "12-50m"],
+        "distância": ["0-3m", "3-7m", "7-11m", "11-50m"],
         "dano": [{
-            "cabeca":"44",
-            "corpo":"22",
+            "cabeca":"46",
+            "corpo":"23",
             "pernas":"19"
         },
         {
-            "cabeca":"34",
-            "corpo":"17",
-            "pernas":"14"
+            "cabeca":"38",
+            "corpo":"19",
+            "pernas":"16"
+        },
+        {
+            "cabeca":"28",
+            "corpo":"14",
+            "pernas":"11"
         },
         {
             "cabeca":"18",
             "corpo":"9",
-            "pernas":"8"
+            "pernas":"7"
         }
         ],
         "tipo":"Escopetas",
@@ -174,8 +218,13 @@
     },
     {
         "nome":"Judge",
-        "penetração_parede":"media",
+        "penetração_parede":"baixa",
         "pente":"7 balas",
+        "cadencia":"3,5 balas/seg",
+        "velocidade_corrida":"5,06 m/seg",
+        "velocidade_equipar":"1 seg",
+        "dispercao_tiro_iniciail":["2,25"],
+        "velocidade_recarregar":"2,2 seg",
         "preco":"1500",
         "distância": ["0-10m", "10-15m", "15-50m"],
         "dano": [{
@@ -202,6 +251,11 @@
         "nome":"Bulldog",
         "penetração_parede":"media",
         "pente":"24 balas",
+        "cadencia":"9,14 balas/seg",
+        "velocidade_corrida":"5,4 m/seg",
+        "velocidade_equipar":"1 seg",
+        "dispercao_tiro_iniciail":["0,3","0,1"],
+        "velocidade_recarregar":"2,5 seg",
         "preco":"2100",
         "distância": ["0-50m"],
         "dano": [{
@@ -218,12 +272,17 @@
         "nome":"Guardian",
         "penetração_parede":"alta",
         "pente":"12 balas",
+        "cadencia":"4,75 balas/seg",
+        "velocidade_corrida":"5,4 m/seg",
+        "velocidade_equipar":"1 seg",
+        "dispercao_tiro_iniciail":["0,1","0"],
+        "velocidade_recarregar":"2,5 seg",
         "preco":"2500",
         "distância": ["0-50m"],
         "dano": [{
             "cabeca":"195",
             "corpo":"65",
-            "pernas":"49"
+            "pernas":"48"
         }
         ],
         "tipo":"Fuzis",
@@ -234,6 +293,11 @@
         "nome":"Phantom",
         "penetração_parede":"media",
         "pente":"30 balas",
+        "cadencia":"11 balas/seg",
+        "velocidade_corrida":"5,4 m/seg",
+        "velocidade_equipar":"1 seg",
+        "dispercao_tiro_iniciail":["0,2","0,11"],
+        "velocidade_recarregar":"2,5 seg",
         "preco":"2900",
         "distância": ["0-15m","15-30m","30-50m"],
         "dano": [{
@@ -244,7 +308,7 @@
         {
             "cabeca":"140",
             "corpo":"35",
-            "pernas":"30"
+            "pernas":"29"
         },
         {
             "cabeca":"124",
@@ -258,14 +322,19 @@
     },
     {
         "nome":"Vandal",
-        "penetração_parede":"alta",
+        "penetração_parede":"média",
         "pente":"25 balas",
+        "cadencia":"9,75 balas/seg",
+        "velocidade_corrida":"5,4 m/seg",
+        "velocidade_equipar":"1 seg",
+        "dispercao_tiro_iniciail":["0,25","0,157"],
+        "velocidade_recarregar":"2,5 seg",
         "preco":"2900",
         "distância": ["0-50m"],
         "dano": [{
-            "cabeca":"156",
-            "corpo":"39",
-            "pernas":"33"
+            "cabeca":"160",
+            "corpo":"40",
+            "pernas":"34"
         }
         ],
         "tipo":"Fuzis",
@@ -276,6 +345,11 @@
         "nome":"Operator",
         "penetração_parede":"alta",
         "pente":"5 balas",
+        "cadencia":"0,75 balas/seg",
+        "velocidade_corrida":"5,13 m/seg",
+        "velocidade_equipar":"1,5 seg",
+        "dispercao_tiro_iniciail":["5, 0"],
+        "velocidade_recarregar":"3,7 seg",
         "preco":"4500",
         "distância": ["30-50m"],
         "dano": [{
@@ -291,6 +365,11 @@
         "nome":"Marshal",
         "penetração_parede":"media",
         "pente":"5 balas",
+        "cadencia":"1,5 balas/seg",
+        "velocidade_corrida":"5,4 m/seg",
+        "velocidade_equipar":"1,25 seg",
+        "dispercao_tiro_iniciail":["1","0"],
+        "velocidade_recarregar":"2,5 seg",
         "preco":"1100",
         "distância": ["0-50m"],
         "dano": [{
@@ -306,6 +385,11 @@
         "nome":"Ares",
         "penetração_parede":"alta",
         "pente":"50 balas",
+        "cadencia":"10 balas/seg",
+        "velocidade_corrida":"5,13 m/seg",
+        "velocidade_equipar":"1,25 seg",
+        "dispercao_tiro_iniciail":["0,8","0,67"],
+        "velocidade_recarregar":"3,25 seg",
         "preco":"1600",
         "distância": ["0-30m","30-50m"],
         "dano": [{
@@ -325,6 +409,11 @@
     {
         "nome":"Odin",
         "penetração_parede":"alta",
+        "cadencia":"12 balas/seg",
+        "velocidade_corrida":"5,13 m/seg",
+        "velocidade_equipar":"1,25 seg",
+        "dispercao_tiro_iniciail":["0,8","0,79"],
+        "velocidade_recarregar":"5 seg",
         "pente":"100 balas",
         "preco":"3200",
         "distância": ["0-30m","30-50m"],
